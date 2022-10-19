@@ -16,3 +16,8 @@ Covers Python Basics with examples.
 - Conditional statements
 - Loops: iteration statements
 - User defined functions
+
+## Requirements
+
+- Python 3.8 version
+- Jupyter Notebook
